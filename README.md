@@ -10,18 +10,26 @@
 </p>
 
 <br>
-<img src="screenshot1.png" />
 Aqui fica a lista. Logo que entra na aplicação
+<br>
+<img src="screenshot1.png" />
 
+<br>
+É feito uma atualização. O intuito desta atualização era para ser demorada, e é, porem é posivel deixar o app mais otimizado.
 <br>
 <img src="screenshot2.png" />
-É feito uma atualização. O intuito desta atualização era para ser demorada, e é, porem é posivel deixar o app mais otimizado.
 
 <br>
-<img src="screenshot3.png" />
 Esta aplicação se adapta a tela do usuario. Então pode executar sem medo.
+<br>
+<img src="screenshot3.png" />
+
 
 <p>
      Como vocês podem ver é uma aplicação bem simples.
      Porem permite fazer dar um bom aprendizado.
+</p>
+
+<p>
+     Agradeço a todos da softblue pelo aprendizado
 </p>
