@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="dialog_sem_conexao">Sem conexão</string>
+    <string name="dialog_conexao_de_dados_nao_disponivel">Conexão de dados não disponivel</string>
+    <string name="dialog_fechar">Fechar</string>
+    <string name="txt_menu_atualizar">Atualizar</string>
+</resources>

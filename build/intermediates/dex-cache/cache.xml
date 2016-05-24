@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/cronos/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="24.0.0 rc4"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Weather/app/build/intermediates/pre-dexed/release/okio-1.6.0_dadbd921599c6a0e683e8ec5971c7aae160319f7.jar" />
+    </item>
+    <item
+        jar="/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Weather/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc4"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Weather/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.2.1_da29e9cb985d9aa890f11e4976c048d8fbd1425e.jar" />
+    </item>
+    <item
+        jar="/home/cronos/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0 rc4"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Weather/app/build/intermediates/pre-dexed/release/okhttp-3.2.0_39ada3b6ae4a800f21e808741aa15eb46693f0f6.jar" />
+    </item>
+    <item
+        jar="/home/cronos/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="24.0.0 rc4"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Weather/app/build/intermediates/pre-dexed/release/support-annotations-23.2.1_6cf217808943d1fc1d1dba07edc0ee86dc82f91c.jar" />
+    </item>
+    <item
+        jar="/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Weather/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="24.0.0 rc4"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Weather/app/build/intermediates/pre-dexed/release/internal_impl-23.2.1_c2b728fed523f95ca253244c1586c3fd22663e0f.jar" />
+    </item>
+    <item
+        jar="/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Weather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc4"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Weather/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.2.1_ffb480d074ddbcb190cde09f9a7b4d44344bc5d0.jar" />
+    </item>
+    <item
+        jar="/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Weather/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc4"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Weather/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.2.1_d1086c545602598bc25d215a0f1237f68c1adc6b.jar" />
+    </item>
+    <item
+        jar="/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Weather/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc4"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/cronos/AndroidStudioProjects/AulaAndroid/ProjetosAndroid/Weather/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.2.1_e4bf20d9b2b280abd2fa42b115a77b23c653c57a.jar" />
+    </item>
+
+</items>
